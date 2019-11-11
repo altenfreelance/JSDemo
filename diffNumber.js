@@ -2,8 +2,7 @@ function getDifferentNumber (arr) {
     // Get the smallest non negative integer NOT in the array
     // Max array value is 2^32 -1
     // Efficiency
-    // Prompt 1) You cannot modify the array
-    // Prompt 2) You can
+    // You cannot modify the array
     
     let numHash = {}
 
